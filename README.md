@@ -34,3 +34,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaviKumar00721&show_icons=true&locale=en&layout=compact" alt="RaviKumar00721" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RaviKumar00721" alt="RaviKumar00721" /></a></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaviKumar00721/RaviKumar00721/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaviKumar00721/RaviKumar00721/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RaviKumar00721/RaviKumar00721/output/github-snake.svg" />
+</picture>
